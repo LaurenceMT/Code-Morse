@@ -5,7 +5,7 @@ Inventé en 1832 pour la télégraphie, le code morse est considéré comme le p
 Seul langage universel, le code morse traverse les âges sans perdre de sa valeur. 
 De ce fait, nous trouviez intéressant de créer un traducteur de chiffre à morse, notamment en utilisant les systèmes mis à notre disposition.
 
-###Projet
+### Projet
 Au début du programme, on a un affichage sur l’écran LCD qui indique « Chiffre choisi : » suivi du chiffre de notre choix sur la seconde ligne.
 <p align="center">
 <img src="https://github.com/TolsyLaurenceESIEA/Code-Morse/blob/master/incr%C3%A9.gif">
